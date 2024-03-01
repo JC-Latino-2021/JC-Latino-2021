@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [My class Assignment](still in progress)
 
-- 🤝 I’m looking for help with [My GitHub page](still in progress)
+- 🤝 I’m looking for help with https://github.com/JC-Latino-2021
 
 - 👨‍💻 All of my projects are available at [still in progress](still in progress)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **calito2002@hotmail.com**
 
-- 📄 Know about my experiences [still in progress](still in progress)
+- 📄 Know about my experiences https://www.jeancarloweb.com/Jean-Carlo-Latoure-Resume.pdf
 
 - ⚡ Fun fact **I been working from home the last 14 years and travelling out of the country every year the last 15 yearss**
 
