@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jean Carlo Latoure</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate Front-End Developer from Canada</h3>
 
-- 🔭 I’m currently working on [My Portfolio](still in progress)
+- 🔭 I’m currently looking for full-time job as a Front-End Developer or as a Webmaster.
+  
+- 🤝 I have 15 years of experience working as a webmaster with my last employer, where I planned, developed, deployed, and maintained their website from scratch to finish.
 
-- 🌱 I’m currently learning **React**
+- 🌱 Within the last year I have taken classes about: React, TypeScript, Generative AI, and AI Prompts.
 
-- 👯 I’m looking to collaborate on [My class Assignment](still in progress)
-
-- 🤝 I’m looking for help with https://github.com/JC-Latino-2021
-
-- 👨‍💻 All of my projects are available at [still in progress](still in progress)
-
-- 📝 I regularly write articles on [Is been more than 10 years since I wrote a travel article](Is been more than 10 years since I wrote a travel article)
+- 👨‍💻 All of my projects are available at: https://www.jeancarloweb.com/Portfolio/
 
 - 💬 Ask me about **been a Webmaster**
 
-- 📫 How to reach me **calito2002@hotmail.com**
+- 📫 How to reach me **jean.carlo.latoure@gmail.com**
 
 - 📄 Know about my experiences https://www.jeancarloweb.com/Jean-Carlo-Latoure-Resume.pdf
-
-- ⚡ Fun fact **I been working from home the last 14 years and travelling out of the country every year the last 15 yearss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
