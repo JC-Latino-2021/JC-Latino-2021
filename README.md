@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Carlo Latoure</h1>
 <h3 align="center">A passionate Front-End Developer from Canada</h3>
 
-- 🔭 I’m currently looking for full-time job as a Front-End Developer or as a Webmaster.
+- 🔭 I’m currently looking for a full-time job as a Front-End Developer or as a Webmaster.
   
 - 🤝 I have 15 years of experience working as a webmaster with my last employer, where I planned, developed, deployed, and maintained their website from scratch to finish.
 
