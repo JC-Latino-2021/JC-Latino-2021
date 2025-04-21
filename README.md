@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jean Carlo Latoure</h1>
 <h3 align="center">A passionate Front-End Developer from Canada</h3>
 
-- 🔭 I’m currently looking for a full-time job as a Front-End Developer or as a Webmaster.
+- 🔭 I have 15 years of experience working as a webmaster with my last employer.
   
-- 🤝 I have 15 years of experience working as a webmaster with my last employer, where I planned, developed, deployed, and maintained their website from scratch to finish.
+- 🤝 I have planned, developed, deployed, and maintained their website from scratch to finish.
 
 - 🌱 Within the last year I have taken classes about: React, TypeScript, Generative AI, and AI Prompts.
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **been a Webmaster**
 
-- 📫 Reach me by email: **jean.carlo.latoure@gmail.com**
+- 📫 Reach me by email at: **jean.carlo.latoure@gmail.com**
 
 - 📄 Know about my experiences and skills here: https://www.jeancarloweb.com/Jean-Carlo-Latoure-Resume.pdf
 
