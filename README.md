@@ -7,13 +7,13 @@
 
 - 🌱 Within the last year I have taken classes about: React, TypeScript, Generative AI, and AI Prompts.
 
-- 👨‍💻 All of my projects are available at: https://www.jeancarloweb.com/Portfolio/
+- 👨‍💻 Some of my projects are available here: https://www.jeancarloweb.com/Portfolio/
 
 - 💬 Ask me about **been a Webmaster**
 
-- 📫 How to reach me **jean.carlo.latoure@gmail.com**
+- 📫 Reach me by email: **jean.carlo.latoure@gmail.com**
 
-- 📄 Know about my experiences https://www.jeancarloweb.com/Jean-Carlo-Latoure-Resume.pdf
+- 📄 Know about my experiences and skills here: https://www.jeancarloweb.com/Jean-Carlo-Latoure-Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
